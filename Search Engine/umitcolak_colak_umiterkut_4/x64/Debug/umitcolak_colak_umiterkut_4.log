@@ -1,0 +1,35 @@
+﻿  umitcolak_colak_umiterkut_4.cpp
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4.cpp(229,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HeapSort.h(8,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HeapSort.h(6,1): message : while compiling class template member function 'void HeapSort<WordItem>::sort(std::vector<WordItem,std::allocator<WordItem>> &)'
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4.cpp(431,26): message : see reference to function template instantiation 'void HeapSort<WordItem>::sort(std::vector<WordItem,std::allocator<WordItem>> &)' being compiled
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4.cpp(431,26): message : see reference to class template instantiation 'HeapSort<WordItem>' being compiled
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HeapSort.h(9,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HeapSort.h(12,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\MergeSort.h(9,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\MergeSort.h(7,1): message : while compiling class template member function 'void MergeSort<WordItem>::sort(std::vector<WordItem,std::allocator<WordItem>> &)'
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4.cpp(426,27): message : see reference to function template instantiation 'void MergeSort<WordItem>::sort(std::vector<WordItem,std::allocator<WordItem>> &)' being compiled
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4.cpp(426,27): message : see reference to class template instantiation 'MergeSort<WordItem>' being compiled
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\QuickSort.h(16,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\QuickSort.h(15,1): message : while compiling class template member function 'void QuickSort<WordItem>::quicksort(std::vector<WordItem,std::allocator<WordItem>> &,QuickSort<WordItem>::PivotType)'
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4.cpp(413,32): message : see reference to function template instantiation 'void QuickSort<WordItem>::quicksort(std::vector<WordItem,std::allocator<WordItem>> &,QuickSort<WordItem>::PivotType)' being compiled
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4.cpp(413,32): message : see reference to class template instantiation 'QuickSort<WordItem>' being compiled
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HashTable.h(218,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HashTable.h(217,1): message : while compiling class template member function 'void HashTable<WordItem>::rehash(void)'
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HashTable.h(92,10): message : see reference to function template instantiation 'void HashTable<WordItem>::rehash(void)' being compiled
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4.cpp(124,39): message : see reference to class template instantiation 'HashTable<WordItem>' being compiled
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HashTable.h(224,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HashTable.h(162,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HashTable.h(160,1): message : while compiling class template member function 'int HashTable<WordItem>::findPos(const HashedObj &) const'
+          with
+          [
+              HashedObj=WordItem
+          ]
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HashTable.h(101,18): message : see reference to function template instantiation 'int HashTable<WordItem>::findPos(const HashedObj &) const' being compiled
+          with
+          [
+              HashedObj=WordItem
+          ]
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HashTable.h(170,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\umitcolak_colak_umiterkut_4\HashTable.h(172,29): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+  umitcolak_colak_umiterkut_4.vcxproj -> C:\Users\umit2\Visual Studio\umitcolak_colak_umiterkut_4\x64\Debug\umitcolak_colak_umiterkut_4.exe
